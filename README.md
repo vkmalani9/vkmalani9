@@ -49,7 +49,7 @@ Includes wallet system, payments, admin dashboard, and real-time tracking.
 ### 🚗 **Hello Auto**
 Ride-hailing app (bike, auto, car) with real-time GPS tracking, insurance integration, and scalable backend infrastructure.
 
-### 🎯 **BetBaazi**
+### 🎯 **Fantasy Sports App**
 Fantasy sports + opinion trading platform (like Dream11/Probo).  
 Scaled to **100K+ downloads in one month** with live trading and gamification.
 
