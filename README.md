@@ -1,110 +1,65 @@
 # 👋 Hi, I'm Vikram Jangid Malani
 
-🚀 **Full-Stack Engineer | AI Integrator | Cloud Architect**
-
-Building scalable web and mobile products powered by AI, automation, and strong backend architecture. I focus on delivering **high-performance, secure, and reliable** software for fintech, edtech, and consumer platforms.
+🚀 **Full-Stack Engineer | React, Next.js, React Native, Node.js, Python (FastAPI, Flask, Django) | AWS, Docker, Kubernetes | AI & LLM Developments | Scalable Web & Mobile Systems**
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-I’m a **Full-Stack Engineer** with expertise across the entire product lifecycle — from frontend UI/UX to backend systems and cloud deployments.  
-My work bridges **scalable infrastructure, intelligent automation, and real-world product impact**.
+I’m a **Full-Stack Engineer** specializing in building **scalable, cloud-native web and mobile applications** powered by AI and automation.  
+My focus is on blending **strong backend architecture**, **clean frontend experiences**, and **reliable DevOps pipelines** to deliver high-performance products.
 
-- 🌍 Based in Ahmedabad, Gujarat, India  
-- 💼 Open to full-time roles as a Full Stack / Software Engineer  
-- ✉️ Reach me at **[vikramjangid203@gmail.com](mailto:vikramjangid203@gmail.com)**  
-- 🔗 Connect: [LinkedIn →](https://www.linkedin.com/in/vikram-jangid-malani-35116023b)
+Over the past few years, I’ve engineered systems in **fintech, edtech, and consumer tech**, delivering products that have scaled to thousands of users and millions in transactions.
 
 ---
 
-## ⚙️ Core Skills & Tech Stack
+## 💡 Core Skills & Tech Stack
 
-**Frontend**
-- React.js, Next.js, React Native, TypeScript, Tailwind CSS  
-
-**Backend**
-- Node.js (Express), Python (FastAPI, Flask, Django), Laravel, PHP  
-- Databases: MySQL, MongoDB, PostgreSQL, Redis  
-
-**Cloud & DevOps**
-- AWS (EC2, S3, Lambda), Docker, Kubernetes, GitLab CI/CD  
-
-**AI & Automation**
-- LLMs, NLP, n8n automation, intelligent chatbots  
-
-**Other Strengths**
-- Scalable system design  
-- Performance & security optimization  
-- CI/CD & infrastructure monitoring  
+**Frontend:** React.js, Next.js, React Native, TypeScript, Tailwind CSS  
+**Backend:** Node.js (Express), Python (FastAPI, Flask, Django), Laravel, PHP, MySQL, MongoDB, PostgreSQL, Redis  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Kubernetes, GitLab CI/CD  
+**AI & Automation:** LLMs, NLP, n8n automation, intelligent chatbots, process automation  
+**Other Strengths:** Scalable system design, cloud infrastructure, CI/CD, API integrations, performance optimization
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Notable Projects
 
-### 🏦 **MobikPe**
-A fintech recharge & bill-pay app for an RBI-registered company.  
-Includes wallet system, payments, admin dashboard, and real-time tracking.
+### 🪙 Payment and Recharge Application
+Fintech recharge & bill-pay app for an RBI-registered company.  
+→ Features wallet, payments, cashback, and admin dashboard.
 
-### 🚗 **Hello Auto**
-Ride-hailing app (bike, auto, car) with real-time GPS tracking, insurance integration, and scalable backend infrastructure.
+### 🚗 Hello Auto
+Ride-hailing app (bike, auto, car) with real-time GPS tracking, insurance tools, and secure backend systems.
 
-### 🎯 **Fantasy Sports App**
+### 🎯 Fantasy Sports Application
 Fantasy sports + opinion trading platform (like Dream11/Probo).  
-Scaled to **100K+ downloads in one month** with live trading and gamification.
+→ Scaled to **100K+ downloads in one month** with real-time trading and gamification.
 
-### 📘 **CHO Academy**
-Mock test & e-learning platform with analytics, leaderboards, and admin dashboards.
+### 📘 EdTech
+Mock test & e-learning platform with detailed analytics, leaderboards, and admin dashboards.
 
-### 🤖 **Custom AI Projects**
-LLM-based chatbots, AI expense tracker, and AI debugging plugins for WordPress.
-
----
-
-## 🧩 Current Work
-
-### 🕵️‍♂️ Stealth Startup — *Full Stack Engineer*
-*(March 2025 – Present | Ahmedabad, India)*
-
-Developing a **digital payments & recharge platform** with wallet, UPI integration, real-time cashback, and travel bookings.
-
-**Highlights**
-- React Native fintech app with instant transaction updates via Socket.io  
-- Node.js + MongoDB backend with secure KYC and wallet flow  
-- Razorpay & Paytm integration for deposits/withdrawals  
-- Next.js admin panel for user, merchant, and revenue management  
-- Reduced transaction failures by 30% and improved platform uptime
-
-**Tech Stack:** React Native, Next.js, Node.js, Express, MongoDB, MySQL, Socket.io, AWS, Docker
+### 🤖 Custom AI Projects
+Built AI chatbots, automated expense tracking tools, and WordPress debugging plugins powered by LLMs.
 
 ---
 
-## 🧠 Previous Experience
+## ⚙️ Professional Strengths
 
-### 🧩 The Tech Query — *Founder & CEO*  
-*(Jan 2022 – Present | Rajasthan, India)*
-
-- Led a 15–20 member team building fintech and edtech products  
-- Developed AI-powered billing and LMS systems generating **$100k+ profit growth**  
-- Delivered custom solutions like AI chatbots, dating apps, and ticketing platforms  
+- End-to-end product ownership — frontend, backend, mobile, and deployment.  
+- Deep understanding of **performance optimization**, **system reliability**, and **security best practices**.  
+- Proven success in **fintech**, **edtech**, and **AI automation** systems.  
+- Comfortable managing projects, leading small teams, and delivering under tight deadlines.
 
 ---
 
-## 🎓 Education
+## 🌍 Open to Opportunities
 
-**B.Tech in Computer Software Engineering**  
-🧭 *Jai Narain Vyas University (JNVU), Jodhpur*
+Actively exploring **Full-Stack or Software Engineer** roles where I can contribute across the stack — from UI/UX to backend systems and DevOps — while integrating **AI and automation** into production-grade systems.
 
----
-
-## 💬 Let’s Connect
-
-I’m passionate about **building real-world scalable systems**, integrating **AI and automation**, and solving challenging engineering problems.  
-If you’re working on something ambitious, I’d love to collaborate.
-
-📧 [vikramjangid203@gmail.com](mailto:vikramjangid203@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/vikram-jangid-malani-35116023b)
+📧 **[vikramjangid203@gmail.com](mailto:vikramjangid203@gmail.com)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/vikram-jangid-malani-35116023b)**  
 
 ---
 
-⭐ **“Code that scales, products that matter.”**
+⭐ **“Build systems that scale. Ship products that matter.”**
