@@ -23,27 +23,6 @@ Over the past few years, I’ve engineered systems in **fintech, edtech, and con
 
 ---
 
-## 🚀 Notable Projects
-
-### 🪙 Payment and Recharge Application
-Fintech recharge & bill-pay app for an RBI-registered company.  
-→ Features wallet, payments, cashback, and admin dashboard.
-
-### 🚗 Hello Auto
-Ride-hailing app (bike, auto, car) with real-time GPS tracking, insurance tools, and secure backend systems.
-
-### 🎯 Fantasy Sports Application
-Fantasy sports + opinion trading platform (like Dream11/Probo).  
-→ Scaled to **100K+ downloads in one month** with real-time trading and gamification.
-
-### 📘 EdTech
-Mock test & e-learning platform with detailed analytics, leaderboards, and admin dashboards.
-
-### 🤖 Custom AI Projects
-Built AI chatbots, automated expense tracking tools, and WordPress debugging plugins powered by LLMs.
-
----
-
 ## ⚙️ Professional Strengths
 
 - End-to-end product ownership — frontend, backend, mobile, and deployment.  
