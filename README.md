@@ -50,7 +50,7 @@ Git, GitLab, Jira, Postman, Figma-to-code workflows, analytics integrations, web
 
 ---
 
-## ⚙️ Professional Summary
+## ⚙️ Summary
 
 I’ve delivered production-grade systems in **fintech, mobility, gaming, edtech, automation, and AI-native domains** — handling everything from rapid MVP builds to large-scale, high-traffic deployments.
 
