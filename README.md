@@ -1,137 +1,68 @@
-# 👋 Hi, I'm Vikram Jangid Malani
+<h1 align="center">Vikram Jangid Malani</h1>
 
-### **Full-Stack Engineer | React • Next.js • Node.js • FastAPI • PostgreSQL • AWS • Microservices • AI Automation**
-
-📍 Ahmedabad, Gujarat
-📧 **[vikramjangid203@gmail.com](mailto:vikramjangid203@gmail.com)** 
-🔗 **[LinkedIn](https://linkedin.com/in/vikram-jangid-malani-35116023b)**
-
----
-
-# 🚀 About Me
-
-Full-Stack Engineer building **high-performance web apps, backend systems, automation pipelines, and AI-driven platforms**. Experienced across **fintech, edtech, commerce, automation, and cloud-native ecosystems**.
-
-I design and ship **scalable products end-to-end** — APIs, microservices, infrastructure, mobile apps, automation flows, and AI integrations.
+<p align="center">
+  <b>React Native Engineer · Full-Stack · Systems that ship</b><br/>
+  Ahmedabad, India &nbsp;·&nbsp;
+  <a href="mailto:vikramjangid203@gmail.com">vikramjangid203@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/vikram-jangid-malani-35116023b">LinkedIn</a>
+</p>
 
 ---
 
-# 🛠️ Tech Stack & Tools
+### About
 
-### **Languages**
+I build mobile products end to end. React Native is my core, and I go deep on everything a production app depends on: native performance, the APIs behind it, infrastructure, and the release pipeline.
+Over 4+ years I've shipped consumer and enterprise apps used by hundreds of thousands of people. Some started on a blank page; others had to scale overnight.
 
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0065A4?logo=database\&logoColor=white)
+### What I go deep on
 
----
+- **React Native internals**: RN 0.8x on the New Architecture (Fabric, TurboModules, JSI), Hermes, strictly typed navigation
+- **Performance**: 60fps lists and gestures, Reanimated worklets, render-cost profiling, startup and bundle tuning
+- **Server-Driven UI**: screens composed from a backend schema, so layouts and flows change without an app-store release
+- **Architecture at scale**: pnpm monorepos (28+ TypeScript packages) with enforced dependency boundaries, so teams ship in parallel without collisions
+- **Mobile security**: OTP auth, JWT/JWKS verification, silent token refresh, Zod-validated contracts on both client and server
+- **The backend behind the app**: Node.js, gRPC microservices, MongoDB, PostgreSQL, Redis, Docker, CI/CD
 
-### **Frontend**
+### Selected engineering work
 
-![React](https://img.shields.io/badge/React-61DBFB?logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DBFB?logo=react\&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux\&logoColor=white)
+**Enterprise B2C + B2B service platform**
+- Problem: consumers, staff and business owners each needed their own app, all running on the same live operational data.
+- Built customer and partner apps from a single monorepo with shared domain, design-system and API packages.
+- Server-Driven UI pipeline for context-aware screens. gRPC between services, JWKS-verified REST at the edge, real-time queue and booking state.
 
----
+**Real-time ride-hailing platform**
+- Separate rider and driver apps for auto, bike and cab, with live location streaming, dynamic matching and trip-state sync that survives flaky networks.
 
-### **Backend**
+**High-concurrency fantasy sports and prediction app**
+- Grew to **140K+ active users in its first month**. Rebuilt hot paths and caching so contest-time traffic spikes didn't take the app down.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-05998B?logo=fastapi\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-333333?logo=microservices\&logoColor=white)
+**Fintech recharge and payments app**
+- Multi-gateway routing with failover and idempotent transaction handling, so every payment reaches a definite state and nothing gets charged twice.
 
----
+**Assessment platform**
+- Test engine with real-time auto-save and resume, integrated payments, and LLM-generated performance summaries for each student.
 
-### **Databases**
+### Stack
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?logo=google&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
----
+### How I build
 
-### **Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx\&logoColor=white)
-
----
-
-### **AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai\&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-000000?logo=ai\&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Systems-0066FF?logo=vector\&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-444444?logo=zapier\&logoColor=white)
-![TelegramBots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?logo=telegram\&logoColor=white)
+- **Performance is a feature.** If it drops frames, it isn't done.
+- **Contracts before code.** Typed schemas shared between the app and the API.
+- **AI-native workflow.** Agents, MCP tooling and LLM-assisted review help me ship faster without lowering the bar.
 
 ---
 
-# 🔥 Featured Projects
-
-### **🌐 Automated Forex Broker Verification & VIP Access Ecosystem**
-
-**Stack:** FastAPI, Node.js, PostgreSQL, Next.js, Telegram Bot API, AWS
-
-* High-concurrency backend for broker sync & Telegram bots
-* Sliding window algorithm + de-duplication handling strict API limits
-* Multilingual admin portal (EN / Hinglish / Gujarati)
-* Automated VIP onboarding + inactivity pruning system
-* Optimized using HashMap caching + PostgreSQL indexing
-* Fully automated system for thousands of traders
-
----
-
-### **🏬 DragBizz – Intelligent Commerce OS**
-
-**Role:** AI Logic Engineer | DSA Algorithms
-
-* AI algorithms for low-stock detection, reorder forecasting, SKU ranking
-* Forecasting workflows powering invoice operations
-* Built backend logic architecture with system designs
-* Enhanced analytics & real-time insights workflow
-
----
-
-### **📚 Mock Test Platform – EdTech**
-
-**Stack:** React, Laravel, PostgreSQL, Razorpay
-
-* Test engine, auto-save, timer, review mode
-* Result analytics + scoring backend in Laravel
-* Admin panel for tests, categories, questions
-* Full payment system via Razorpay
-
----
-
-# 🎓 Education
-
-**BCA — Jai Narayan Vyas University (2020–2023)**
-
----
-
-# 🏆 Achievements
-
-* Delivered systems used by institutions, fintech ops, retailers & students
-* Known for clean code, fast delivery & high-scalability design
-* Built multiple production-grade AI automations & micro-agents
-* Experience across fintech, commerce, edtech, automation & AI ecosystems
-
----
-
-# 🌍 Open To
-
-**Full-Stack Engineer • Backend Engineer • AI Engineer**
-Tech stack: React • Next.js • Node.js • Python • FastAPI • PostgreSQL • AWS
-
----
+<p align="center"><i>Open to senior React Native and full-stack roles. Reach me at <a href="mailto:vikramjangid203@gmail.com">vikramjangid203@gmail.com</a></i></p>
