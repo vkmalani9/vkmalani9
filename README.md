@@ -33,6 +33,13 @@ I've shipped consumer and enterprise platforms used by hundreds of thousands of 
 - **DevOps**: AWS, Docker, Kubernetes, GitHub Actions CI/CD
 - **AI**: LLM features, AI agents, MCP servers and tool calling, LangGraph, n8n automations
 
+### Open source
+
+**[react-native-phone-number-hint](https://github.com/vkmalani9/react-native-phone-number-hint)** · *[npm](https://www.npmjs.com/package/react-native-phone-number-hint)*
+- Problem: login screens still ask for a phone number the device already knows, and older RN helpers wrap Google's deprecated `HintRequest` API.
+- A permission-free TurboModule on the current Phone Number Hint API (`GetPhoneNumberHintIntentRequest`). No contacts, phone, or SMS permissions. Concurrent calls share one chooser; cancel and missing Play services resolve `null`.
+- Kotlin + New Architecture, iOS autofill `TextInput` props, CI, and MIT. `npm install react-native-phone-number-hint`
+
 ### Selected engineering work
 
 **Enterprise B2C + B2B service platform** · *React Native, Node.js, gRPC, MongoDB, Redis*
